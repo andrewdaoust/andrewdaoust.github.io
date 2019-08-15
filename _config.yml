@@ -6,11 +6,11 @@ description: > # Meta description of Homepage
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://daoust.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Andrew D'Aoust
   links:
     - https://twitter.com/daoustwithaq
     - https://www.facebook.com/andrewdaoust
@@ -27,7 +27,7 @@ navigation: # Navigation links
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: andrew-kellie.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: andrew@daoust.dev # email for form submission
 
