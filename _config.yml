@@ -49,7 +49,7 @@ texture:
 header_pages:
 - about.md
 
-# remote_theme: thelehhman/texture
+remote_theme: thelehhman/texture
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
