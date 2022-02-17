@@ -11,7 +11,7 @@ const ICON_PADDING = "p-12";
 export function Socials() {
   return (
     <div>
-      <h2 className="text-2xl p-6">Where to find me</h2>
+      <h2 className="text-2xl p-5">Where to find me</h2>
       <span>
         <Instagram />
         <LinkedIn />
