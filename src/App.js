@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import me from './static/me.png';
 import './App.css';
 import { Socials } from './components/social';
 
 function App() {
-  let descriptions = ["Motorsport enthusiast."];
+  // let descriptions = ["Motorsport enthusiast."];
   return (
     <div className="App">
       <header className="App-header">
